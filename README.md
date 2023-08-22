@@ -14,8 +14,7 @@
 ## 👽 Language and tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,c,cpp)](https://skillicons.dev)
 
-
-
+## 👀 My Github Stats:
 
 ![Ishika's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshikaGupta3112&show_icons=true&bg_color=00000000) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IshikaGupta3112)](https://git.io/streak-stats)   
 
