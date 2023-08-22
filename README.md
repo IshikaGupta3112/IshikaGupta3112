@@ -1,6 +1,6 @@
 ### Hey there! I'm Ishika Gupta👋
 
-## 🎃Frontend Developer|React🎃
+# 🎃Frontend Developer|React🎃
 
 ## 👾 About Me:
 
